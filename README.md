@@ -18,7 +18,7 @@
 | MUHAMMAD HARITH FARHAN BIN AHMAD YUSOFF | 52215226127 | Member |
 
 ## IMPORTANT NOTE (!!)
-This is the second version of this Repository due to mistakes within the first one that led to its deletions. As our group is still currently in the learning stage when it comes to Github usage and proficiency, we were susceptible to mistakes such as the incorrect ways to commit, create files, create folders, organize the repo, setup the repo and others - especially learning the ropes of **git commands**.
+This is the second version of this Repository due to mistakes within the first one that led to its deletions. As our group is still currently in the learning stage when it comes to Github usage and proficiency, we were susceptible to mistakes such as the incorrect ways to commit, create files, create folders, organize the repo, setup the repo and others - especially learning how to use and manipulate with the **git commands**.
 
 ## Research Problem
 
