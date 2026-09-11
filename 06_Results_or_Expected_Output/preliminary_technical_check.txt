@@ -1,0 +1,15 @@
+PRELIMINARY TECHNICAL CHECK — NOT FINAL EXPERIMENTAL RESULTS
+
+PRELIMINARY IMPLEMENTATION CHECK — NOT FINAL RESEARCH RESULTS
+Scenarios processed: 120
+Low-risk scenarios: 60 | Elevated-risk scenarios: 60
+Static LRSR:   100.0%
+Adaptive LRSR: 0.0%
+Static ERSC:   100.0%
+Adaptive ERSC: 100.0%
+Mean static policy time:   454 ns
+Mean adaptive policy time: 1537 ns
+Timing values are machine-dependent technical traces, not proposal findings.
+
+This file exists only to show that the proposal-stage scripts execute against the synthetic scenario set.
+Do not cite these machine-specific timing values as final research findings.
