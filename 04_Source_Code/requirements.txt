@@ -1,0 +1,2 @@
+# Optional dependency for totp_demo.py only
+pyotp>=2.9,<3.0
